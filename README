@@ -1,0 +1,23 @@
+# Lagerverwaltung App
+###### a privat project to master in PHP and MySQL and Database Design
+
+The project Lagerverwaltung (conves_lvw2) is a Web App to manage the a stock of a company.
+It should include the following requirements:
+
+- Database to store (maschines, paint, product number, status, user name, pw)
+- Login page
+- categories page, list all categories (Verbrauchsmaterialien, Farben, Abdeckmaterialien, Maschinen, Werkzeug)  
+- Farben/ Lacke category page
+  list all items with there properties (Hersteller, Farbart, Farbton, Farbnummer, Counter)
+- Abdeckmaterial category page
+  list all items with there properties (Bezeichnung, Counter)
+- Maschine category page
+  list all items with there properties (Bezeichnung, Lagerstatus)
+- Werkzeuge category page
+  list all items with there properties (Bezeichnung, Counter)
+- Verbrauchsmaterialien category page
+  list all items with there properties (Bezeichner)
+
+- Hinzugügen item page
+
+The project is in process but is currently on hold because of other projects.
